@@ -5,3 +5,5 @@ API Server built in NodeJS
 Redux used for State Management
 
 Web and Mobile clients built with React and React Native respectively. 
+
+Database Used - MongoDB
