@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Tomi's Sweet Food",
+    "slug": "Tomi-sweet-food",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "description": "Get Your sweet food here",
+    "ios": {
+      "bundleIdentifier": "net.food.confusion.confusion"
+    },
+    "android": {
+      "package": "net.food.confusion.confusion"
+      
+    }
+  }
+}
